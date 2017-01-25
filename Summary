@@ -1,1 +1,5 @@
 Creating a store for students coursweork submissions that will make the coursework available to those who are going to mark it.
+
+On a scale up to 100 students with several lab helpers and/or lecturers.
+
+the assesors need higher priviliges thatn the students who must not see each others work in the repository
